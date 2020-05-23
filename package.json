@@ -1,0 +1,25 @@
+{
+  "name": "ReGitHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangshine/ReGitHub.git"
+  },
+  "keywords": [],
+  "author": "zhangshine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangshine/ReGitHub/issues"
+  },
+  "homepage": "https://github.com/zhangshine/ReGitHub#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.38",
+    "typescript": "^3.9.3"
+  }
+}
